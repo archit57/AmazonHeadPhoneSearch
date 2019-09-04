@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.shirish.web-test-framework</groupId>
+	<groupId>com.archit.web-test-framework</groupId>
 	<artifactId>MyWebApp</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<name>WebTestFramework</name>
-	<description>Web testing framework using Java + Selenium Web driver + TestNG ...created by Shirish Kawatkar</description>
+	<description>Web testing framework using Java + Selenium Web driver + TestNG ...created by archit agarwal</description>
 
 	<profiles>
 
@@ -406,10 +406,10 @@
 	</properties>
 
 
-	<url>https://github.com/shirishk/Java-Selenium-TestNG-Automation-Framework</url>
+	<url>https://github.com/architk/Java-Selenium-TestNG-Automation-Framework</url>
 	<organization>
-		<name>Shirish Kawatkar</name>
-		<url>http://shirish.com/</url>
+		<name>archit agarwal</name>
+		<url>http://archit.com/</url>
 	</organization>
 	<ciManagement>
 		<system>Travis CI</system>
